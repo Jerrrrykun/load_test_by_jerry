@@ -75,6 +75,7 @@ key_obj.key = MODEL_FILE_NAME
 
 contents = key_obj.get_contents_to_filename(MODEL_LOCAL_PATH)
 FBP_model = load_model(MODEL_LOCAL_PATH)
+# FBP_model = load_model('s3://cv2bucketlololo28y43875t47/CV.h5')
 ########################################################################################################################
 
 application = Flask(__name__)
