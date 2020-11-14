@@ -7,5 +7,5 @@
 ## Locust Load Test Result
 This is a screenshot for the load test result.
 
-![Locust Test Result 1](Locust_test_1.png?raw=true "Optional Title")
-![Locust Test Result 2](Locust_test_2.png?raw=true "Optional Title")
+![Locust Test Result 1](https://user-images.githubusercontent.com/63830845/99152040-625e3800-26da-11eb-9e9a-491c78d16e0b.png)
+![Locust Test Result 2](https://user-images.githubusercontent.com/63830845/99152043-65f1bf00-26da-11eb-9345-a92bccbaccd2.png)
